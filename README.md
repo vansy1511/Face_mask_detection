@@ -10,9 +10,8 @@ The dataset consists of almost 12K images which are almost 328.92MB in size. Wit
 
 All the images with the face mask (~6K) are scrapped from google search and all the images without the face mask are preprocessed from the CelebFace dataset created by [Jessica Li](https://www.kaggle.com/jessicali9530).  
 
-3. **Members:**  
-- Van Sy - 19495751  (Leader)  
-- Nguyen Anh Toan - 19447201  
-- Nguyen Van Phuc Nhan - 19440221  
-- Nguyen Tien Sy - 19440181  
-- Huynh Anh Tu - 19446701  
+3. **About me:**  
+Van Sy  
+[Facebook](https://www.facebook.com/vans1511)  
+[Twitter](https://twitter.com/vsyiuh)
+[Linked](https://www.linkedin.com/in/vansyiuh)
